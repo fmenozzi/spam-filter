@@ -1,4 +1,4 @@
-This is a simple spam filter using Naive Bayes classification. 
+This is a simple spam filter written for my Artificial Intelligence class that uses Naive Bayes classification. 
 
 To run the filter, simply run
 
